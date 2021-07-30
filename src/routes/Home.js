@@ -66,8 +66,9 @@ const Home = ({ userObj }) => {
           {userObj.emailVerified ? (
             <div>
               <h1>Home</h1>
-              <p>{userObj.displayName}선생님 안녕하세요!</p>
+              <p>{userObj.displayName}님 안녕하세요!</p>
               <CreateTimeTable />
+              <br />
               <br />
               <button onClick={onCreateTimeTableClick}>
                 오늘 시간표 추가하기
