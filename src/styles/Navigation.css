@@ -1,0 +1,12 @@
+.nav_bar {
+  width: 100%;
+  border-bottom: 1px solid lightgray;
+  text-align: right;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
+
+.nav_icon {
+  display: inline-block;
+  margin: 5px;
+}

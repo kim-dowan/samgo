@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;800&family=Noto+Sans+KR:wght@300&display=swap");
+
+/*
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+*/
+.container {
+  font-family: "Noto Sans KR", sans-serif;
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.input_form {
+  background-color: white;
+  display: inline-block;
+  width: 99%;
+  margin-top: 7vw;
+  padding: 25px;
+  box-shadow: 2px 0 lightgray, 0 2px lightgray;
+}
+
+.title {
+  text-align: left;
+  font-size: 27px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.description {
+  color: gray;
+  font-size: 15px;
+  text-align: left;
+}
+
+.input_box {
+  border: none;
+  border-bottom: 1px solid lightgray;
+  margin: 15px 0;
+  width: 100%;
+  height: 30px;
+}
+
+.submit_btn {
+  background-color: #38d39f;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  width: 80%;
+  height: 45px;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+#roleRadio1,
+#roleRadio2 {
+  margin-right: 5px;
+}
+
+.role_radio {
+  margin: 10px;
+  font-size: 16px;
+}
+
+.persistence {
+  margin: 10px 0;
+  float: left;
+}
+
+.forgot_password {
+  margin: 10px 0;
+  float: right;
+  cursor: pointer;
+  text-decoration: underline 1px gray;
+}
+
+.toggle_btn {
+  cursor: pointer;
+}
+
+.error {
+  margin-bottom: 10px;
+  color: red;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+@media screen and (min-width: 768px) {
+  .input_form {
+    max-width: 500px;
+    margin: 50px 0;
+  }
+}

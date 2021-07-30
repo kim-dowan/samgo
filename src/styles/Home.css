@@ -1,0 +1,21 @@
+.verify_warning {
+  margin: 20px;
+}
+
+.verify_btn {
+  background-color: #38d39f;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  width: 80%;
+  height: 45px;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 300;
+  max-width: 500px;
+}
+
+.loading_div {
+  display: inline-block;
+  margin-top: 200px;
+}
