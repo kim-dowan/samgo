@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/samgo/static/css/main.8371d49f.chunk.css",
+    "main.js": "/samgo/static/js/main.301afe2d.chunk.js",
+    "main.js.map": "/samgo/static/js/main.301afe2d.chunk.js.map",
+    "runtime-main.js": "/samgo/static/js/runtime-main.df469d46.js",
+    "runtime-main.js.map": "/samgo/static/js/runtime-main.df469d46.js.map",
+    "static/js/2.1ce9c6b2.chunk.js": "/samgo/static/js/2.1ce9c6b2.chunk.js",
+    "static/js/2.1ce9c6b2.chunk.js.map": "/samgo/static/js/2.1ce9c6b2.chunk.js.map",
+    "index.html": "/samgo/index.html",
+    "static/css/main.8371d49f.chunk.css.map": "/samgo/static/css/main.8371d49f.chunk.css.map",
+    "static/js/2.1ce9c6b2.chunk.js.LICENSE.txt": "/samgo/static/js/2.1ce9c6b2.chunk.js.LICENSE.txt",
+    "static/media/rolling.fbb4e958.gif": "/samgo/static/media/rolling.fbb4e958.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df469d46.js",
+    "static/js/2.1ce9c6b2.chunk.js",
+    "static/css/main.8371d49f.chunk.css",
+    "static/js/main.301afe2d.chunk.js"
+  ]
+}
